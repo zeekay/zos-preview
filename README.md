@@ -1,5 +1,7 @@
 # 👁️ Preview
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-preview&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-preview&ref=main&action=edit)
+
 Quick Look file preview for zOS.
 
 ## Features
